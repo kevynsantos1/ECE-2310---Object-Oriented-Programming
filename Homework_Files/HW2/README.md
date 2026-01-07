@@ -1,1 +1,1 @@
-HW 2 BMI Calculator
+HW 2 BMI Calculator - Done in groups
