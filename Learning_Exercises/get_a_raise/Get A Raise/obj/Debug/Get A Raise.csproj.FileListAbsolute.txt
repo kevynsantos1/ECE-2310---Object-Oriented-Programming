@@ -1,0 +1,10 @@
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\Get A Raise\Get A Raise\bin\Debug\Get A Raise.exe.config
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\Get A Raise\Get A Raise\bin\Debug\Get A Raise.exe
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\Get A Raise\Get A Raise\bin\Debug\Get A Raise.pdb
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\Get A Raise\Get A Raise\obj\Debug\Get A Raise.csprojAssemblyReference.cache
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\Get A Raise\Get A Raise\obj\Debug\Get A Raise.exe
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\Get A Raise\Get A Raise\obj\Debug\Get A Raise.pdb
+D:\Downloads\OneDrive_2026-01-10\Get A Raise\Get A Raise\obj\Debug\Get A Raise.csproj.AssemblyReference.cache
+D:\Downloads\OneDrive_2026-01-10\Get A Raise\Get A Raise\obj\Debug\Get A Raise.csproj.CoreCompileInputs.cache
+D:\Downloads\OneDrive_2026-01-10\Get A Raise\Get A Raise\obj\Debug\Get A Raise.exe
+D:\Downloads\OneDrive_2026-01-10\Get A Raise\Get A Raise\obj\Debug\Get A Raise.pdb
