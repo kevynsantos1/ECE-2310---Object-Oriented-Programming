@@ -1,0 +1,6 @@
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\Dr kleains better validation\Dr kleains better validation\bin\Debug\Dr kleains better validation.exe.config
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\Dr kleains better validation\Dr kleains better validation\bin\Debug\Dr kleains better validation.exe
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\Dr kleains better validation\Dr kleains better validation\bin\Debug\Dr kleains better validation.pdb
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\Dr kleains better validation\Dr kleains better validation\obj\Debug\Dr kleains better validation.csprojAssemblyReference.cache
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\Dr kleains better validation\Dr kleains better validation\obj\Debug\Dr kleains better validation.exe
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\Dr kleains better validation\Dr kleains better validation\obj\Debug\Dr kleains better validation.pdb
