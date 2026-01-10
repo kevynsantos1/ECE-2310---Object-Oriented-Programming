@@ -1,0 +1,13 @@
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\arrays\arrays\bin\Debug\arrays.exe.config
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\arrays\arrays\bin\Debug\arrays.exe
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\arrays\arrays\bin\Debug\arrays.pdb
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\arrays\arrays\obj\Debug\arrays.csprojAssemblyReference.cache
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\arrays\arrays\obj\Debug\arrays.exe
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\arrays\arrays\obj\Debug\arrays.pdb
+D:\Downloads\arrays\arrays\arrays\bin\Debug\arrays.exe.config
+D:\Downloads\arrays\arrays\arrays\bin\Debug\arrays.exe
+D:\Downloads\arrays\arrays\arrays\bin\Debug\arrays.pdb
+D:\Downloads\arrays\arrays\arrays\obj\Debug\arrays.csproj.AssemblyReference.cache
+D:\Downloads\arrays\arrays\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
+D:\Downloads\arrays\arrays\arrays\obj\Debug\arrays.exe
+D:\Downloads\arrays\arrays\arrays\obj\Debug\arrays.pdb
