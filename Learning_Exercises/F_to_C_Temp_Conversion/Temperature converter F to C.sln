@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temperature converter F to C", "Temperature converter F to C\Temperature converter F to C.csproj", "{5D4A0124-C888-474A-9FE1-394892C9B081}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D4A0124-C888-474A-9FE1-394892C9B081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D4A0124-C888-474A-9FE1-394892C9B081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D4A0124-C888-474A-9FE1-394892C9B081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D4A0124-C888-474A-9FE1-394892C9B081}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E27AEA8-8F26-4B26-9DD1-AB2E610D19E1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\Temperature converter F to C\Temperature converter F to C\bin\Debug\Temperature converter F to C.exe.config
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\Temperature converter F to C\Temperature converter F to C\bin\Debug\Temperature converter F to C.exe
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\Temperature converter F to C\Temperature converter F to C\bin\Debug\Temperature converter F to C.pdb
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\Temperature converter F to C\Temperature converter F to C\obj\Debug\Temperature converter F to C.exe
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\Temperature converter F to C\Temperature converter F to C\obj\Debug\Temperature converter F to C.pdb
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\Temperature converter F to C\Temperature converter F to C\obj\Debug\Temperature converter F to C.csprojAssemblyReference.cache
