@@ -1,0 +1,13 @@
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
+D:\Downloads\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+D:\Downloads\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\Downloads\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+D:\Downloads\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
+D:\Downloads\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+D:\Downloads\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\Downloads\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
