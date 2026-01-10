@@ -1,0 +1,1 @@
+This was a learning exercise for inheritance. We have a dog class, a bird class, and an animal class. It is important to note that a dog "is-a" animal and the same goes for the bird. So naturally, the dog and bird inherit the animal class.
