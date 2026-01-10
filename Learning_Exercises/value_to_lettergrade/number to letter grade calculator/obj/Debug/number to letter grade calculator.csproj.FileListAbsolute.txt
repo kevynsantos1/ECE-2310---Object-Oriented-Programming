@@ -1,0 +1,9 @@
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\number to letter grade calculator\number to letter grade calculator\bin\Debug\number to letter grade calculator.exe.config
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\number to letter grade calculator\number to letter grade calculator\bin\Debug\number to letter grade calculator.exe
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\number to letter grade calculator\number to letter grade calculator\bin\Debug\number to letter grade calculator.pdb
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\number to letter grade calculator\number to letter grade calculator\obj\Debug\number to letter grade calculator.csprojAssemblyReference.cache
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\number to letter grade calculator\number to letter grade calculator\obj\Debug\number_to_letter_grade_calculator.Form1.resources
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\number to letter grade calculator\number to letter grade calculator\obj\Debug\number_to_letter_grade_calculator.Properties.Resources.resources
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\number to letter grade calculator\number to letter grade calculator\obj\Debug\number to letter grade calculator.csproj.GenerateResource.cache
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\number to letter grade calculator\number to letter grade calculator\obj\Debug\number to letter grade calculator.exe
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\number to letter grade calculator\number to letter grade calculator\obj\Debug\number to letter grade calculator.pdb
