@@ -1,0 +1,19 @@
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\For loop stuff\For loop stuff\bin\Debug\For loop stuff.exe.config
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\For loop stuff\For loop stuff\bin\Debug\For loop stuff.exe
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\For loop stuff\For loop stuff\bin\Debug\For loop stuff.pdb
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\For loop stuff\For loop stuff\obj\Debug\For loop stuff.csprojAssemblyReference.cache
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\For loop stuff\For loop stuff\obj\Debug\For_loop_stuff.Form1.resources
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\For loop stuff\For loop stuff\obj\Debug\For_loop_stuff.Properties.Resources.resources
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\For loop stuff\For loop stuff\obj\Debug\For loop stuff.csproj.GenerateResource.cache
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\For loop stuff\For loop stuff\obj\Debug\For loop stuff.exe
+C:\Users\kevynsantos\OneDrive - Cal Poly Pomona\ECE 2310\For loop stuff\For loop stuff\obj\Debug\For loop stuff.pdb
+D:\Downloads\OneDrive_2026-01-10\For loop stuff\For loop stuff\bin\Debug\For loop stuff.exe.config
+D:\Downloads\OneDrive_2026-01-10\For loop stuff\For loop stuff\bin\Debug\For loop stuff.exe
+D:\Downloads\OneDrive_2026-01-10\For loop stuff\For loop stuff\bin\Debug\For loop stuff.pdb
+D:\Downloads\OneDrive_2026-01-10\For loop stuff\For loop stuff\obj\Debug\For loop stuff.csproj.AssemblyReference.cache
+D:\Downloads\OneDrive_2026-01-10\For loop stuff\For loop stuff\obj\Debug\For_loop_stuff.Form1.resources
+D:\Downloads\OneDrive_2026-01-10\For loop stuff\For loop stuff\obj\Debug\For_loop_stuff.Properties.Resources.resources
+D:\Downloads\OneDrive_2026-01-10\For loop stuff\For loop stuff\obj\Debug\For loop stuff.csproj.GenerateResource.cache
+D:\Downloads\OneDrive_2026-01-10\For loop stuff\For loop stuff\obj\Debug\For loop stuff.csproj.CoreCompileInputs.cache
+D:\Downloads\OneDrive_2026-01-10\For loop stuff\For loop stuff\obj\Debug\For loop stuff.exe
+D:\Downloads\OneDrive_2026-01-10\For loop stuff\For loop stuff\obj\Debug\For loop stuff.pdb
